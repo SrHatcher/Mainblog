@@ -1,5 +1,6 @@
 Este es un texto de prueba
 
 solo estoy probando git
+modificacion de texto 
 
 fin de la instruccion
