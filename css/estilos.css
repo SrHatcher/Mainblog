@@ -9,3 +9,12 @@ body{
     display: inline-block;
 }
 
+.cabecera{
+    background-color: yellowgreen;
+    color: azure;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: left;
+    padding: 1em;
+}
+
