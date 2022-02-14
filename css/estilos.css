@@ -2,3 +2,10 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+.contenedor{
+    border: 2px gainsboro solid;
+    padding: 10px;
+    display: inline-block;
+}
+
