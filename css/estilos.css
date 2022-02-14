@@ -7,5 +7,19 @@ body{
     border: 2px gainsboro solid;
     padding: 10px;
     display: inline-block;
+    width: 70%;
 }
+
+.cabecera{
+    background-color: yellowgreen;
+    color: azure;
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.titulo{
+    padding: 10px;
+}
+
 
