@@ -27,3 +27,12 @@ body{
     display: inline;
 }
 
+.footer{
+    background-color: grey;
+}
+
+.footer p{
+    padding: 10px;
+    color: whitesmoke;
+    font-weight: bolder;
+}
