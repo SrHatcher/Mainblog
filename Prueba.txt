@@ -2,5 +2,6 @@ Este es un texto de prueba
 
 solo estoy probando git
 modificacion de texto 
+esta linea es creada por XAPHAN
 
 fin de la instruccion
