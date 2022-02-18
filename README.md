@@ -5,4 +5,4 @@ Es increible como en un curso de **43** clases ya he aprendido a dominar esta he
 
 Y pensar que hasta hace un mes esta herramienta me parecia irrelevante porque no comprendia su uso y mirenme ahora. Continuo en mi viaje como aprendiz de tecnologia.
 
-# Gracias Fredy y gracias Platzi :sake:
+# Gracias Fredy y gracias Platzi
