@@ -5,6 +5,8 @@ modificacion de texto
 esta linea es creada por XAPHAN
 al parecer cuando clone el repositorio desde la cuenta de xaphan, el origen se configuro automaticamente al de xaphan sin necesidad de escribir el comando git remote add origen
 
+master 2
+
 master 1
 
 fin de la instruccion
