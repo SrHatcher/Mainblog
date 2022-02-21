@@ -11,5 +11,6 @@ Tercera linea para probar el comando cherry-pick
 
 Cuarta linea para probar el cherry pick
 quitna linea para probar el cherry pick
+sexta linea para probar el cherry pick
 
 # Gracias Fredy y gracias Platzi
