@@ -9,10 +9,8 @@ Primera linea para probar el comando cherry-pick
 Segunda linea para probar el comando cherry-pick
 Tercera linea para probar el comando cherry-pick
 
-<<<<<<< HEAD
-=======
 Cuarta linea para probar el cherry pick
 quitna linea para probar el cherry pick
+sexta linea para probar el cherry pick
 
->>>>>>> abef9f6... quinto commit a readme mejorado 2
 # Gracias Fredy y gracias Platzi
