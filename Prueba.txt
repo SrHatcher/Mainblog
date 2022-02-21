@@ -16,4 +16,7 @@ master3
 
 master4
 
+comprobando que bueno hacer push desde ubuntu casa
+comprobando que ahora si me deja hacer conexion ssh
+
 fin de la instruccion
